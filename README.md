@@ -1,3 +1,4 @@
 # stream_ex01
 
-A new Flutter project.
+Stream -> 비동기 방식으로 언제, 얼마나 많은 양이 도착할 지 예측할 수 없는
+데이터를 다룰 때 사용 연습코드
